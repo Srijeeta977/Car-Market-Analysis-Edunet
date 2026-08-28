@@ -82,3 +82,18 @@ Car-Market-Analysis-Edunet/
 ├── Car_Dekho_Data.csv
 ├── Car_Market_Analysis_Edunet.ipynb
 └── README.md
+```
+
+# How to Run
+1. Download or clone this repository.
+2. Open Car_Market_Analysis_Edunet.ipynb in Google Colab or Jupyter Notebook.
+3. Make sure Car_Dekho_Data.csv is available in the working directory.
+4. Run the notebook cells sequentially.
+
+# Project Outcome
+
+The project demonstrates how Python-based data analysis and visualization can be used to transform historical automobile data into meaningful insights that support better buying, selling, and pricing decisions.
+
+# Internship
+
+## Data Analytics Internship – Edunet Foundation
